@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQStepView">
+        <attr name="outColor" format="color" />
+        <attr name="innerColor" format="color" />
+        <attr name="stepTextColor" format="color" />
+        <attr name="stepTextSize" format="dimension" />
+        //圆环宽度 外圆减去内圆
+        <attr name="borderWidth" format="dimension"/>
+        //内圆半径
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>
